@@ -117,6 +117,7 @@ If you want to specify your own allocation, hourly rates and/or additional notes
 > Rates:
 >
 > \* TSC Members: $80.00 USD/hour
+> 
 > \* Project Contributors: $50.00 USD/hour
 >
 > Additional notes:
