@@ -43,7 +43,13 @@ Project members should track their time and submit a monthly invoice at the begi
 
 Before doing and submitting significant expenses a project's members should get pre-approval from the TSC.
 
-To ensure transparency and avoid conflicts of interest, contributors or TSC members should not request compensation from the project for specific work (e.g., features, bug fixes) that has already been funded by other sources, such as employer contracts, external sponsorships, or crowdfunding campaigns. However, the TSC may evaluate scenarios on a case-by-case basis and may agree to co-fund specific work if a suitable arrangement can be reached.
+#### Conflict of Interest
+
+To ensure transparency and avoid conflicts of interest, contributors and TSC members should not request compensation from the project for specific work (e.g., features, bug fixes) that has already been directly funded by other sources, such as employer contracts, external sponsorships, or crowdfunding campaigns.
+
+However, the TSC may evaluate scenarios on a case-by-case basis and may agree to co-fund specific work if a suitable arrangement can be reached.
+
+Personal non-targeted donations such as GitHub Sponsors should generally not classify as direct funding, unless eg. specifically mentioned or requested together with specific work.
 
 #### Hourly rates
 
@@ -105,19 +111,19 @@ If you want to specify your own allocation, hourly rates and/or additional notes
 > \## Allocation
 >
 > \* 70% Project Development
-> 
+>
 > \* 0% Travel and Event Expenses
-> 
+>
 > \* 10% Contributor Pool (Min: $100/month)
-> 
+>
 > \* 20% Dependencies and Community Projects (Max: $200/month)
-> 
+>
 > \* \<1% Support Systems
 >
 > \## Rates
 >
 > \* TSC Members: $80.00 USD/hour
-> 
+>
 > \* Project Contributors: $50.00 USD/hour
 >
 > \## Additional notes
