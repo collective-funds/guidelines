@@ -36,7 +36,7 @@ Historic versions are tagged in git and can be found in [releases](https://githu
 
 ### In discussion
 
-* Mocha (soon)
+* Mocha (https://github.com/mochajs/mocha/pull/5199)
 * Neostandard
 
 ## How to Adopt
