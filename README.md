@@ -11,7 +11,7 @@
 
   Open source projects collects funds – but how do they spend them?
 
-  The Collective Funds Guidelines provides a framework for use of funds.
+  The Collective Funds Guidelines provides a framework for the use of funds.
 
 </div>
 
