@@ -94,13 +94,13 @@ Add a note in your `README.md`, or a `FUNDING.md`, file in the root directory of
 
 > \# Fund Usage Guidelines
 >
-> This project follows the \[Collective Funds Guidelines 0.1\](\#).
+> This project follows the \[Collective Funds Guidelines 0.1\](https://github.com/collective-funds/guidelines).
 
 If you want to specify your own allocation, hourly rates and/or additional notes then do something like:
 
 > \# Fund Usage Guidelines
 >
-> This project follows \[Collective Funds Guidelines 0.1\](\#) with the following definitions:
+> This project follows \[Collective Funds Guidelines 0.1\](https://github.com/collective-funds/guidelines) with the following definitions:
 >
 > Allocation:
 >
