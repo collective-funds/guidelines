@@ -105,9 +105,13 @@ If you want to specify your own allocation, hourly rates and/or additional notes
 > Allocation:
 >
 > \* 70% Project Development
+> 
 > \* 0% Travel and Event Expenses
+> 
 > \* 10% Contributor Pool (Min: $100/month)
+> 
 > \* 20% Dependencies and Community Projects (Max: $200/month)
+> 
 > \* \<1% Support Systems
 >
 > Rates:
