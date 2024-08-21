@@ -32,12 +32,13 @@ Historic versions are tagged in git and can be found in [releases](https://githu
 
 ### Current users
 
-* _None yet_
+* Mocha, see [FUNDING.md](https://github.com/mochajs/mocha/blob/main/FUNDING.md)
+* (Your project? Open a PR!)
 
 ### In discussion
 
-* Mocha (https://github.com/mochajs/mocha/pull/5199)
 * Neostandard
+* (Your project? Open a PR!)
 
 ## How to Adopt
 
