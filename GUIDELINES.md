@@ -1,4 +1,4 @@
-# Collective Funds Guidelines 0.1.0
+# Collective Funds Guidelines 0.1
 
 ## Purpose
 

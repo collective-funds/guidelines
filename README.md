@@ -18,7 +18,7 @@
 
 ## Status
 
-An early v0.1.0 draft of the [guidelines](./GUIDELINES.md) are available for early adoptors while we gather feedback.
+An early v0.1 draft of the [guidelines](./GUIDELINES.md) are available for early adoptors while we gather feedback.
 
 Guidelines are not recommended for wider adoption until it reaches a stable v1.0.0 (staying in line with [Semantic Versioning](https://semver.org/)).
 
