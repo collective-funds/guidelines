@@ -100,9 +100,9 @@ If you want to specify your own allocation, hourly rates and/or additional notes
 
 > \# Fund Usage Guidelines
 >
-> This project follows \[Collective Funds Guidelines 0.1\](https://github.com/collective-funds/guidelines) with the following definitions:
+> This project follows \[Collective Funds Guidelines 0.1\](https://github.com/collective-funds/guidelines) with the following customizations:
 >
-> Allocation:
+> \## Allocation:
 >
 > \* 70% Project Development
 > 
@@ -114,13 +114,13 @@ If you want to specify your own allocation, hourly rates and/or additional notes
 > 
 > \* \<1% Support Systems
 >
-> Rates:
+> \## Rates:
 >
 > \* TSC Members: $80.00 USD/hour
 > 
 > \* Project Contributors: $50.00 USD/hour
 >
-> Additional notes:
+> \## Additional notes:
 >
 > \<Any additional notes you would want to add\>
 
