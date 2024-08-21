@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="assets/collective-funds-guidelines.svg"
+    src="assets/collective-funds-guidelines2.svg"
     width="650"
     height="auto"
     alt="Collective Funds"
