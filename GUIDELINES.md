@@ -23,8 +23,6 @@ The allocation is based on monthly or yearly funds – estimated, average or act
 
 The project will keep a level of transparency that makes it possible for givers to roughly follow up on this allocation, but exact level of transparency is out-of-scope of these guidelines.
 
-The project strives to keep the monthly spending over time below what it takes in each month, to allow saving for special projects and to allow for flexibility in month-to-month spending.
-
 ### Project Development
 
 Expenses can be submitted by project members (Project Contributors or TSC Members).
